@@ -28,6 +28,10 @@ git clone https://github.com/comus3/emuMate.git
 1. Open the solution in Visual Studio or your preferred IDE.
 2. Build and run the app for your target platform (Windows, macOS, etc.).
 
+   ####OR
+
+Later down the project I will make a compiled version of the project and an installed which will be linked here
+
 ## Usage
 
 1. **Home Page:** The starting point with quick links to other sections.
