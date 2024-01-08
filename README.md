@@ -20,7 +20,7 @@ EmuMate is your ultimate emulator companion, designed to streamline the manageme
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/comus3/game-management-app.git
+git clone https://github.com/comus3/emuMate.git
 ```
 
 ### Build and Run
