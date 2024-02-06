@@ -52,5 +52,4 @@ This project is licensed under the [BSD 2 liscence](LICENSE.md).
 ## Acknowledgments
 
 - Thanks to the .NET MAUI community for their support and contributions.
-- Icon made by [Author Name](https://www.flaticon.com/authors/author) from www.flaticon.com.
 
