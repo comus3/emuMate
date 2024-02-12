@@ -1,7 +1,7 @@
 ﻿using Android.App;
 using Android.Runtime;
 
-namespace emuMate;
+namespace EmuMate;
 
 [Application]
 public class MainApplication : MauiApplication

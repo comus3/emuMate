@@ -1,6 +1,6 @@
 ﻿using Foundation;
 
-namespace emuMate;
+namespace EmuMate;
 
 [Register("AppDelegate")]
 public class AppDelegate : MauiUIApplicationDelegate

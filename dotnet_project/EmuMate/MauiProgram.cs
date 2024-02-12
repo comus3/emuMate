@@ -1,6 +1,6 @@
 ﻿using Microsoft.Extensions.Logging;
 
-namespace emuMate;
+namespace EmuMate;
 
 public static class MauiProgram
 {

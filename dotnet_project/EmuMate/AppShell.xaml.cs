@@ -1,4 +1,4 @@
-﻿namespace emuMate;
+﻿namespace EmuMate;
 
 public partial class AppShell : Shell
 {
